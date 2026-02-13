@@ -1,0 +1,10 @@
+{
+    "domain": "energy_storage_ops",
+    "name": "Energy Storage Ops",
+    "version": "1.0.0",
+    "documentation": "https://github.com/your_username/energy_storage_ops",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "iot_class": "local_polling"
+  }
